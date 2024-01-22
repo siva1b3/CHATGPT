@@ -1,0 +1,39 @@
+"I am currently working on developing a form, and as a developer, it's crucial to assign meaningful names to different sections of the form. I already have a name for the entire form, but I need assistance in coming up with relevant names for each section. To facilitate this, I am providing the following details:
+
+Form Name: [Specify the name or purpose of the overall form to provide context.]
+
+Number of Sections: [Indicate the total number of sections in the form, and if there are specific categories or areas already identified.]
+
+Brief Description:
+
+Personal Information:
+
+Input Type: Textboxes, dropdowns, date pickers.
+Number of Inputs: Name, contact number, address.
+Professional Details:
+
+Input Type: Textboxes, dropdowns.
+Number of Inputs: Job title, company name, work experience.
+Educational Background:
+
+Input Type: Textboxes, dropdowns.
+Number of Inputs: Institutions attended, degrees obtained, graduation date.
+Project Information:
+
+Input Type: Textboxes, text areas.
+Number of Inputs: Project name, description, duration.
+Skills and Expertise:
+
+Input Type: Checkboxes, rating system.
+Number of Inputs: List of skills with checkboxes or a rating for each.
+Additional Information:
+
+Input Type: Textboxes, text areas, file uploads.
+Number of Inputs: Allow users to add any extra information they find relevant.
+Consent and Agreement:
+
+Input Type: Checkboxes, agreement statements.
+Number of Inputs: Consent checkboxes, agreement statement.
+By sharing this information, I hope to receive suggestions for appropriate and meaningful names for the different sections of the form. Your assistance in this matter would be greatly appreciated."
+
+just say "acknowledged" the task if you understand what we need to do?

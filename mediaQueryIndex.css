@@ -1,29 +1,29 @@
-/* Large screens (≥1400px) - xxl */
+/* Extra Extra Large Screens (≥1400px) - xxl */
 @media (min-width: 1400px) {
+  /* Your styles for extra extra large screens go here */
+}
+
+/* Large Screens (≤1400px) */
+@media (max-width: 1400px) {
   /* Your styles for large screens go here */
 }
 
-/* Medium screens (≥1200px and <1400px) - xl */
-@media (max-width: 1400px) {
+/* Medium Screens (≤1200px) */
+@media (max-width: 1200px) {
   /* Your styles for medium screens go here */
 }
 
-/* Small screens (≥992px and <1200px) - lg */
-@media (max-width: 1200px) {
+/* Small Screens (≤992px) */
+@media (max-width: 992px) {
   /* Your styles for small screens go here */
 }
 
-/* Tablet screens (≥768px and <992px) - md */
-@media (max-width: 992px) {
+/* Tablet Screens (≤768px) */
+@media (max-width: 768px) {
   /* Your styles for tablet screens go here */
 }
 
-/* Mobile landscape screens (≥576px and <768px) - sm */
-@media (max-width: 768px) {
-  /* Your styles for mobile landscape screens go here */
-}
-
-/* Mobile portrait screens (<576px) - No class infix (None) */
+/* Mobile Screens (≤576px) */
 @media (max-width: 576px) {
-  /* Your styles for mobile portrait screens go here */
+  /* Your styles for mobile screens go here */
 }

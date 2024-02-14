@@ -1,0 +1,48 @@
+"Kindly furnish me with a customized and precise solution, taking into consideration the sequence of four inputs I will share with you in subsequent prompts. Please ensure a thorough understanding of these details before initiating the code crafting process. Our procedural steps are as follows:
+    A. Await Your Four Inputs: Please refrain from commencing the task until I have supplied all four inputs. This guarantees that the code you develop aligns with my specific requirements.
+    B. Code Request in Final Input: In my last input, I will explicitly state my readiness for the code. This will serve as a signal for you to commence compiling the code, utilizing information provided in the preceding five prompts.
+    C. Incorporate All Inputs: I anticipate the integration of the last five prompt inputs to shape the context and specifics of the code, ensuring strict adherence to my requirements, including any rules or guidelines mentioned in the input prompts.
+This approach aims to foster an organized, efficient, and lucid exchange, resulting in a meticulously tailored code that aligns with my needs."
+
+"
+Input No 1. Meta details about the task 
+    1.1. assumes that I have already installed and configured plain Bootstrap and SCSS in my project
+    1.2. Plain Bootstrap and SCSS: The code uses plain Bootstrap classes and SCSS for styling.
+    1.3. The code needs to adapt to different screen sizes using Bootstrap's grid system for optimal viewing experience on all devices.
+    1.4. Every element should be positioned and organized using Bootstrap's grid system for consistent and responsive layout. 
+
+Input No 2. What was the task i am excepting from code 
+    2.1. create react code unsing plain and regular bootstrap not react Bootstrap.
+    2.2. Employ SCSS to organize and customize styles efficiently for the component.
+    2.3. Create unique, meaningful and maintainable class names for every element based on the industry standards.
+    2.3. Build a responsive section component containing three horizontally arranged elements.
+        2.3.1. all are arraged in horizaral way.
+        2.3.2. Image logo on the left.
+        2.3.3. Title name in the middle.
+        2.3.4. Date input with a label on the right (using a form date input element).
+        2.3.5. they are no buttons for inputs.
+
+Input No 3. Extra inputs to complete the task
+    3.1. Name of the section is "form header".
+    3.2. use section name for react component name.
+    3.3. use section name as file name for both jsx and scss files.
+    3.4. create useRef for all the input elements if exists in the given input.
+    3.5. create useState for the button elements if exists in the given input.
+    3.6. I want styles based on current web design trends such as minimal design
+
+
+Input No 4. give the complete react code.
+"
+
+input 3 
+3.6. Inspiration from trends: I want styles based on current web design trends, such as minimal design, bold colors, or neumorphism.
+3.7. Theme-based options: I want you to create different SCSS files with themes like "dark mode," "corporate," or "playful," allowing us to choose the one we prefer.
+3.8. Component variations: I can present several variations of the component, each with different styling approaches for elements like the logo, title, and date input.
+
+extra 
+1. Enhance accessibility by adding appropriate ARIA attributes to the elements
+2. Implement input validation to ensure the user enters a valid date format
+
+
+
+

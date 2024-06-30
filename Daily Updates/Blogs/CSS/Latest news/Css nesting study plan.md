@@ -1,4 +1,3 @@
-https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_nesting/Using_CSS_nesting
 
 
 # Two-Day Study Plan for CSS Nesting
@@ -7,6 +6,8 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_nesting/Using_CSS_nesting
 
 ### Reading (30% - 2.5 hours)
 - Study CSS nesting syntax and rules (1 hour)
+- https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_nesting/Using_CSS_nesting
+- https://developer.chrome.com/docs/css-ui/css-nesting
 - Read about differences between CSS nesting and preprocessor nesting (30 minutes)
 - Explore the specificity of the `&` nesting selector (30 minutes)
 - Review browser compatibility and support for CSS nesting (30 minutes)

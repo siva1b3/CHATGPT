@@ -1,15 +1,19 @@
 
-
-https://youtu.be/gieEQFIfgYc
-
+# youtube video link 
+[TypeScript Full Course for Beginners | Complete All-in-One Tutorial | 8 Hours](https://youtu.be/gieEQFIfgYc)
 
 # TypeScript and React Course
 
-## (0:00:00) Intro
-An introduction to the course, outlining what will be covered and the prerequisites needed.
+## [(0:00:00)](https://youtu.be/gieEQFIfgYc) Intro
+	
+> An introduction to the course, outlining what will be covered and the prerequisites needed.
 
-## (0:00:38) Chapter 1: Start Here
-This chapter provides a foundation for TypeScript, including installation, configuration, and the basics of the TypeScript compiler.
+## [(0:00:38)](https://youtu.be/gieEQFIfgYc?t=38) Chapter 1: Start Here
+
+1. tell baisc about the TypeScript and shows TypeScript website.
+2. how to create TypeScript file and compile to js file.
+	1. tsc -w to watch the code Continuusly.
+3. jj
 
 ## (0:25:39) Chapter 2: Basic Types
 Learn about the basic types in TypeScript such as `string`, `number`, `boolean`, `null`, `undefined`, and `any`, and how to use them.

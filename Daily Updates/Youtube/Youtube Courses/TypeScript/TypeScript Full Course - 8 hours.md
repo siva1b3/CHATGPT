@@ -62,3 +62,12 @@ Start a hands-on project combining React and TypeScript, applying the concepts l
 
 ## (7:08:14) Chapter 17: React + TypeScript Project Part 2
 Continue building the React and TypeScript project, adding more advanced features and ensuring the application is robust and maintainable.
+
+
+
+# 
+
+
+## Partial utility type very important we need check how to do partial for nested utility types
+
+[Making TypeScript's Partial type work for nested objects](https://grrr.tech/posts/2021/typescript-partial/)
